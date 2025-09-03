@@ -1,10 +1,10 @@
 # Jupyter notebooks for computer vision
 
-Book in the form of a collection of interactive documents designed with Jupyter Notebook covering fundamental topics from **computer vision**.
+This repository is based on [jotaraul/jupyter-notebooks-for-computer-vision](https://github.com/jotaraul/jupyter-notebooks-for-computer-vision), licensed under the GPL-3.0 License.  
 
-Developed by Antonio Manuel Burgueño, [Jose Raul Ruiz Sarmiento](http://mapir.isa.uma.es/jotaraul), [Francisco Angel Moreno](http://mapir.isa.uma.es/mapirwebsite/index.php/people/199-francisco-moreno-due%C3%B1as), and [Javier Gonzalez-Jimenez](http://mapir.isa.uma.es/mapirwebsite/index.php/people/95-javier-gonzalez-jimenez), all belonging to the [Machine Perception and Intelligent Robotics group (MAPIR)](http://mapir.isa.uma.es/mapirwebsite/), [University of Malaga](https://www.uma.es/) (Spain).
+Modifications and additional teaching materials © 2025 Muhammad Tufail, released under the same GPL-3.0 License.
 
-Try it in: &nbsp; [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jotaraul/jupyter-notebooks-for-computer-vision/master)
+The original code was developed by Antonio Manuel Burgueño, [Jose Raul Ruiz Sarmiento](http://mapir.isa.uma.es/jotaraul), [Francisco Angel Moreno](http://mapir.isa.uma.es/mapirwebsite/index.php/people/199-francisco-moreno-due%C3%B1as), and [Javier Gonzalez-Jimenez](http://mapir.isa.uma.es/mapirwebsite/index.php/people/95-javier-gonzalez-jimenez), all belonging to the [Machine Perception and Intelligent Robotics group (MAPIR)](http://mapir.isa.uma.es/mapirwebsite/), [University of Malaga](https://www.uma.es/) (Spain).
 
 # Topics covered
 
