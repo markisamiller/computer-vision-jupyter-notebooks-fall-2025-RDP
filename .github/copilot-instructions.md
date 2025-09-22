@@ -1,7 +1,7 @@
-# Computer Vision Jupyter Notebooks - AI Coding Agent Instructions
+# Jupyter Notebooks to Support AIDA 2154: Computer Vision, Fall 2025, RDP
 
 ## Overview
-This is an educational computer vision repository structured as interactive Jupyter notebooks covering fundamental CV topics from basic image processing to stereo vision. Each chapter builds progressively, combining theory with hands-on coding exercises.
+This is an educational computer vision repository structured as interactive Jupyter notebooks covering fundamental computer vision topics from basic image processing to deep learning. Each chapter builds progressively, combining theory with hands-on coding exercises.
 
 ## Project Architecture
 
@@ -13,7 +13,7 @@ This is an educational computer vision repository structured as interactive Jupy
 ### Key Directories
 - `Chapter XX. Topic/`: Contains numbered notebooks (e.g., `2.1 IP tools.ipynb`), `images/`, and sometimes `data/`
 - `utils/`: Shared visualization and geometry utilities (see patterns below)
-- `Assignment 1/`: Contains coursework with PDF specifications
+- `Assignment 1/`: Contains assignment files (code, images, and PDFs).
 
 ## Technology Stack & Dependencies
 
