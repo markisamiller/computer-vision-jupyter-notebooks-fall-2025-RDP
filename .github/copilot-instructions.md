@@ -1,4 +1,4 @@
-# Jupyter Notebooks to Support AIDA 3154: Computer Vision, Fall 2025, RDP
+# Jupyter Notebooks to Support AIDA 2154: Computer Vision, Fall 2025, RDP
 
 ## Overview
 This is an educational computer vision repository structured as interactive Jupyter notebooks covering fundamental computer vision topics from basic image processing to deep learning. Each chapter builds progressively, combining theory with hands-on coding exercises.
